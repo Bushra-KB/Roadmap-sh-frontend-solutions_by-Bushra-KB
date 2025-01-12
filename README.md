@@ -14,13 +14,14 @@ Each folder contains a unique project that corresponds to a specific topic in th
 
 ### Projects List:
 1. **Single-Page CV**
-2. [Single-Page CV](https://roadmap.sh/frontend/projects)
-3. **JavaScript Fundamentals**
-4. **CSS Frameworks (e.g., Bootstrap, Tailwind)**
-5. **Version Control (Git)**
-6. **Frontend Tools (e.g., Webpack, Babel)**
-7. **React (or any frontend framework)**
-8. **Advanced Topics (e.g., TypeScript, testing)**
+2. **[Single-Page CV](https://roadmap.sh/frontend/projects)**
+3. **Single-Page CV** [Source Code](https://roadmap.sh/frontend/projects) [Live Demo](https://roadmap.sh/frontend/projects) 
+4. **JavaScript Fundamentals**
+5. **CSS Frameworks (e.g., Bootstrap, Tailwind)**
+6. **Version Control (Git)**
+7. **Frontend Tools (e.g., Webpack, Babel)**
+8. **React (or any frontend framework)**
+9. **Advanced Topics (e.g., TypeScript, testing)**
 
 ## Technologies Used
 - HTML
