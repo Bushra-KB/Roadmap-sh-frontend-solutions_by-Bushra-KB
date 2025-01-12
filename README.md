@@ -1,10 +1,5 @@
 # Roadmap-sh-frontend-solutions_by-Bushra-KB
 
-This repository contains solutions and implementations for projects from the &lt;b>Frontend Developer Roadmap&lt;/b> on &lt;i>roadmap.sh.&lt;/i> Each project is designed to help improve my frontend development skills by applying concepts such as HTML, CSS, JavaScript, and more advanced technologies as I progress through the roadmap.
-
-
-# Frontend Roadmap Projects
-
 This repository contains solutions and implementations for projects from the **Frontend Developer Roadmap** on [roadmap.sh](https://roadmap.sh). Each project is designed to help improve my frontend development skills by applying concepts such as HTML, CSS, JavaScript, and more advanced technologies as I progress through the roadmap.
 
 ## Projects
@@ -17,7 +12,7 @@ Each folder contains a unique project that corresponds to a specific topic in th
 - Organized structure for easy navigation and understanding.
 - Live previews of projects using GitHub Pages.
 
-### Roadmap:
+### Project List [roadmap.sh](https://roadmap.sh/frontend/projects). :
 1. **Basic HTML & CSS**
 2. **JavaScript Fundamentals**
 3. **CSS Frameworks (e.g., Bootstrap, Tailwind)**
