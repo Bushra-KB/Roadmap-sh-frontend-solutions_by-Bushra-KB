@@ -15,7 +15,7 @@ Each folder contains a unique project that corresponds to a specific topic in th
 ### Projects List:
 1. **Single-Page CV**
 2. **[Single-Page CV](https://roadmap.sh/frontend/projects)**
-3. **Single-Page CV** [Source Code](https://roadmap.sh/frontend/projects) [Live Demo](https://roadmap.sh/frontend/projects) 
+3. **Single-Page CV** [SourceCode](https://roadmap.sh/frontend/projects)  |  [LiveDemo](https://roadmap.sh/frontend/projects) 
 4. **JavaScript Fundamentals**
 5. **CSS Frameworks (e.g., Bootstrap, Tailwind)**
 6. **Version Control (Git)**
