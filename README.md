@@ -15,7 +15,7 @@ Each folder contains a unique project that corresponds to a specific topic in th
 ### Projects List:
 1. **Single-Page CV**
 2. **[Single-Page CV](https://roadmap.sh/frontend/projects)**
-3. **Single-Page CV:**  ##[ProjectInstructions](https://roadmap.sh/projects/single-page-cv)##  [SourceCode](https://roadmap.sh/frontend/projects)  |  [LiveDemo](https://roadmap.sh/frontend/projects) 
+3. **Single-Page CV:**  [ProjectInstructions](https://roadmap.sh/projects/single-page-cv)   |   [SourceCode](https://roadmap.sh/frontend/projects)  |  [LiveDemo](https://roadmap.sh/frontend/projects) 
 4. ** Coming Soon!...**
 
 
