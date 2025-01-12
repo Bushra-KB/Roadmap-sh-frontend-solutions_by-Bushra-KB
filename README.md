@@ -16,20 +16,14 @@ Each folder contains a unique project that corresponds to a specific topic in th
 1. **Single-Page CV**
 2. **[Single-Page CV](https://roadmap.sh/frontend/projects)**
 3. **Single-Page CV** [SourceCode](https://roadmap.sh/frontend/projects)  |  [LiveDemo](https://roadmap.sh/frontend/projects) 
-4. **JavaScript Fundamentals**
-5. **CSS Frameworks (e.g., Bootstrap, Tailwind)**
-6. **Version Control (Git)**
-7. **Frontend Tools (e.g., Webpack, Babel)**
-8. **React (or any frontend framework)**
-9. **Advanced Topics (e.g., TypeScript, testing)**
+4. ** Coming Soon!...**
 
-## Technologies Used
+
+## Technologies Used (Till Now):
 - HTML
 - CSS
 - JavaScript
-- React (or any relevant framework)
-- Git & GitHub
-- Others as per project needs (e.g., Tailwind CSS, Webpack)
+- ...
 
 ## How to Run the Projects
 
