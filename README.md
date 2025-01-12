@@ -13,11 +13,9 @@ Each folder contains a unique project that corresponds to a specific topic in th
 - Live previews of projects using GitHub Pages.
 
 ### Projects List:  01-Single-Page-CV
-1. **Single-Page CV**
-2. **[Single-Page CV](https://roadmap.sh/frontend/projects)**
-3. **Single-Page CV:**  [ProjectInstructions](https://roadmap.sh/projects/single-page-cv)   |   [SourceCode](https://github.com/Bushra-KB/Roadmap-sh-frontend-solutions_by-Bushra-KB/tree/main/01-Single-Page-CV)   |   [LiveDemo](https://###)
-4. **Basic HTML Website:**  [ProjectInstructions](https://roadmap.sh/projects/basic-html-website)   |   [SourceCode](https://github.com/Bushra-KB/Roadmap-sh-frontend-solutions_by-Bushra-KB/tree/main/02-Basic-html-Website)   |   [LiveDemo](https://###) 
-5. ** Coming Soon!...**
+1. **Single-Page CV:**  [ProjectInstructions](https://roadmap.sh/projects/single-page-cv)   |   [SourceCode](https://github.com/Bushra-KB/Roadmap-sh-frontend-solutions_by-Bushra-KB/tree/main/01-Single-Page-CV)   |   [LiveDemo](https://###)
+2. **Basic HTML Website:**  [ProjectInstructions](https://roadmap.sh/projects/basic-html-website)   |   [SourceCode](https://github.com/Bushra-KB/Roadmap-sh-frontend-solutions_by-Bushra-KB/tree/main/02-Basic-html-Website)   |   [LiveDemo](https://###)
+3. ** Coming Soon!...**
 
 
 ## Technologies Used (Till Now):
