@@ -10,7 +10,7 @@ Each folder contains a unique project that corresponds to a specific topic in th
 - A collection of frontend projects aligned with the roadmap.
 - Well-documented solutions with detailed explanations in each project folder.
 - Organized structure for easy navigation and understanding.
-- Live previews of projects using GitHub Pages.
+- Live previews of projects using GitHub Pages or other options(i will provide the link).
 
 ### Projects List:  01-Single-Page-CV
 1. **Single-Page CV:**  [ProjectInstructions](https://roadmap.sh/projects/single-page-cv)   |   [SourceCode](https://github.com/Bushra-KB/Roadmap-sh-frontend-solutions_by-Bushra-KB/tree/main/01-Single-Page-CV)   |   [LiveDemo](https://###)
